@@ -1,0 +1,26 @@
+{
+  "liveSassCompile.settings.autoprefix": [
+  
+  ],
+  "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+  "liveServer.settings.ignoreFiles": [
+
+    ".vscode/**",
+    "**/*.scss",
+    "**/*.sass",
+    "**/*.ts"
+  ],
+  "liveServer.settings.port": 0,
+  "liveServer.settings.root": "",
+  "cmake.configureSettings": {
+
+  },
+  "gitlens.proxy": {
+
+  },
+  "editor.fontLigatures": false,
+  "editor.fontVariations": false,
+  "notebook.editorOptionsCustomizations": {
+    
+  }
+}
